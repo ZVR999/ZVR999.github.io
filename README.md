@@ -2,14 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
 
-    <title>Possibly A Blog</title>  <!--What is seen in the tab-->
-
-    <link rel="stylesheet" type="text/css" href="practice.css" /> <!--This links the html and css files-->
-    <script src="practice.js"></script>   <!--This links the html and js files-->
-
-</head>
 
 <body>
     <h1>Knowledge Addict</h1>  <!--First Heading-->
