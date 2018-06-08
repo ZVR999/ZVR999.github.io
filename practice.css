@@ -27,3 +27,9 @@ p {
     display: block;
     margin: auto;
 }
+
+.jsFun {
+    font-size: 18px;
+    text-align: center;
+    color: blue;
+}
