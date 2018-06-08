@@ -1,6 +1,6 @@
 function showMeJs (){
 
     document.getElementById('js').innerHTML = 
-    "Show Me Some JS!"+'</br>';
+    "Show Me Some JS!";
 
 }
