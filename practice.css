@@ -14,5 +14,6 @@ p {
 }
 
 .image {
+    display: block;
     margin: auto;
 }
