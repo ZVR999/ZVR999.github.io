@@ -22,3 +22,8 @@ p {
     text-align: center;
     margin: 25px 100px;
 }
+
+.button {  
+    display: block;
+    margin: auto;
+}
