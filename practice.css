@@ -12,3 +12,7 @@ p {
     text-align: center;
     margin: 25px 100px;
 }
+
+.image {
+    margin: auto;
+}
