@@ -17,3 +17,8 @@ p {
     display: block;
     margin: auto;
 }
+
+.list {
+    text-align: center;
+    margin: 25px 100px;
+}
