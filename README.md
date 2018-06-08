@@ -22,7 +22,7 @@
          width="220" height="312"/>  <!--img placement with breaks for formatting-->
         <br/>Minus the fictional stuff, that's pretty much all you do in that game.
         Good Stuff.</p><hr>
-        <button>I'm a button</button> <!--Creates a button-->
+        
     <h2>Let's Make Some Lists</h2>
     <ul>Cool TV Shows</ul> <!--Unordered list. Not numbered-->
     <li>S.A.O.</li>
